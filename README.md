@@ -2,7 +2,7 @@
 
 - Create a custom hook using useState to handle form
 
-```
+```jsx
 /**
  * -------
  * Custom Hooks
@@ -65,5 +65,4 @@ function App() {
 }
 
 export default App;
-
 ```
